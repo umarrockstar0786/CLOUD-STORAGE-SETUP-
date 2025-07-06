@@ -36,3 +36,4 @@ Real-world cloud project deployment basics
 
 
 Upon completion, the configured cloud bucket with uploaded files and access settings serves as the project deliverable. This task builds a strong foundation in cloud technologies and prepares interns for future cloud-based development or DevOps roles.
+"output": photo_url = f"https://{bucket_name}.s3.amazonaws.com/{filename}"
